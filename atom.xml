@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>newline</title>
+	<subtitle>Alex Balgavy&#x27;s blog. I write stuff here sometimes.</subtitle>
+	<link href="https://blog.alex.balgavy.eu/atom.xml" rel="self" type="application/atom+xml"/>
+	<link href="https://blog.alex.balgavy.eu"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2021-01-22T00:00:00+00:00</updated>
+	<id>https://blog.alex.balgavy.eu/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Down for Maintenance</title>
+		<published>2021-01-22T00:00:00+00:00</published>
+		<updated>2021-01-22T00:00:00+00:00</updated>
+		<id>https://blog.alex.balgavy.eu/maintenance</id>
+		<content type="html">My website is currently down for maintenance. If you need something, contact me via email, my address is alex [AT] balgavy [DOT] eu.</content>
+	</entry>
+</feed>
